@@ -3,7 +3,7 @@
 A fun and simple **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.  
 Play against the computer and see who comes out on top! 💻🎮
 
-👉 Live Demo: http://127.0.0.1:5500/index.html
+
 
 ## 📑 Table of Contents
 1. [🎯 Features](#-features)
